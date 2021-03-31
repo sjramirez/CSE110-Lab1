@@ -32,7 +32,7 @@ For those classes I have take I have used a variety of programming lanugages inc
 ### Side Endeavors 
 I recently have also began experimenting with a side project over Spring Break.
 
-The project I am dabling in is a simple user authentication system with a UI using JavaFX for the user Interface functionality.  
+The project I am dabbling in is a simple user authentication system with a UI using JavaFX for the user Interface functionality.  
 I am also using Java's built in security libraries to hash the given passwords to store instead of storing the password directly into a file.
 
 ```
@@ -59,7 +59,7 @@ Throughout my time at UCSD I have played on the Men's Ultimate Frisbee team.
 It has been one of the best experiences and I have made so many lifelong friends.   
 It also is a great way to keep in shape and is overall really fun and something I look forward too every week.
 
-Also it has come with some pretty funny inside jokes suche as: 
+Also it has come with some pretty funny inside jokes such as: 
 > Hydration is not a Joke! -All Air Squids
 
 If you are intrested check out our [highlights](https://vimeo.com/airsquids/)!
