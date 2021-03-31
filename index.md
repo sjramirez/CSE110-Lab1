@@ -65,7 +65,7 @@ Also it has come with some pretty funny inside jokes suche as:
 If you are intrested check out our [highlights](https://vimeo.com/airsquids/)!
 
 ### Snowboarding
-![Picture of me snowboarding](images/Snowboarding.JPG =250x250)
+![Picture of me snowboarding](images/Snowboarding.JPG)
 
 I have been snowboarding since my senior year in highschool. It is a great hobby to be out in natureand it is very relaxing.
 
