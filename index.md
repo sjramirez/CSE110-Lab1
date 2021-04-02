@@ -67,7 +67,7 @@ If you are intrested check out our [highlights](https://vimeo.com/airsquids/)!
 ### Snowboarding
 ![Picture of me snowboarding](images/Snowboarding.JPG)
 
-I have been snowboarding since my senior year in highschool. It is a great hobby to be out in natureand it is very relaxing.
+I have been snowboarding since my senior year in highschool. It is a great hobby to be out in nature and it is very relaxing.
 
 Some mountains I have been to are
 - Mammoth Mountain, CA
